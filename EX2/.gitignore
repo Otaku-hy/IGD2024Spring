@@ -1,0 +1,12 @@
+/Library
+/Logs
+/obj
+/Packages
+/ProjectSettings
+/Temp
+/UserSettings
+.vsconfig
+.vs
+.plastic
+Assembly-CSharp.csproj
+ignore.conf
